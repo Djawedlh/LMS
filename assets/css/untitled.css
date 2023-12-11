@@ -1,0 +1,6 @@
+.services .icon-box:hover::before {
+  background: #1e90ff;
+  top: 0;
+  border-radius: 0px;
+}
+

@@ -1,0 +1,11 @@
+svg {
+  margin-bottom: 15px;
+  font-size: 70px;
+  /*background: var(--blue);*/
+}
+
+.services .icon-box:hover .element.style {
+  margin-bottom: 15px;
+  color: #ffffff;
+}
+
